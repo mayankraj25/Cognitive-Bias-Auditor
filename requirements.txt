@@ -1,0 +1,13 @@
+streamlit
+requests
+python-dotenv
+fastapi
+uvicorn
+python-multipart
+passlib[bcrypt]
+python-jose
+sqlalchemy
+langchain
+langchain-community
+ollama
+pandas
